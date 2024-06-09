@@ -22,7 +22,7 @@ type Tab = {
 };
 
 async function getData() {
-  const res = await fetch(`http://localhost:3000/api/assets`);
+  const res = await fetch(`${window.location.href}/api/assets`);
 
   if (!res.ok) {
     // This will activate the closest `error.js` Error Boundary
