@@ -1,0 +1,6 @@
+WOULD LIKE TO DO WITH MORE TIME
+
+- use zustand
+- create more components
+- reutilize/optimize css
+- mock all the data

@@ -1,0 +1,8 @@
+{
+    "assets": [
+        {"id": "1", "name": "Item Name 1", "description": "Short description of the item goes nicely here.", "date": "01/25/2023", "type": "Featured"},
+        {"id": "2", "name": "Item Name 2", "description": "Short description of the item goes nicely here.", "date": "01/26/2023", "type": "KPI"},
+        {"id": "3", "name": "Item Name 3", "description": "Short description of the item goes nicely here.", "date": "01/27/2023", "type": "Layouts"},
+        {"id": "4", "name": "Item Name 4", "description": "Short description of the item goes nicely here.", "date": "01/28/2023", "type": "Storyboards"}
+    ]
+}
